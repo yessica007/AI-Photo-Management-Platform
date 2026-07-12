@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Uploaded Images
+uploads/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+desktop.ini
